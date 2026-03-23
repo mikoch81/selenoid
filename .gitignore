@@ -1,2 +1,10 @@
-/ANALIZA_TECHNICZNA.md
-/DOKUMENTACJA_PROJEKTU.md
+node_modules/
+npm-debug.log*
+.env
+.env.*
+*.log
+screenshots/
+audit-logs/
+.DS_Store
+Thumbs.db
+coverage/
